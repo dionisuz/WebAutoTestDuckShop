@@ -1,16 +1,16 @@
 {
-  "name": "9-js-ui-wdio-xotabu4",
+  "name": "9-js-ui-wdio-dionisuz",
   "version": "1.0.0",
   "private": true,
-  "description": "Demo project for StartIT students",
+  "description": "Demo project",
   "scripts": {
     "test": "wdio run wdio.conf.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StartITProtractorJS/9-js-ui-wdio-Xotabu4.git"
+    "url": "git+https://github.com/dionisuz/WebAutoTestDuckShop.git"
   },
-  "author": "Oleksandr Khotemskyi <xotabu4@gmail.com>",
+  "author": "Dionisuz",
   "license": "MIT",
   "dependencies": {
     "@wdio/cli": "^5.16.7"
